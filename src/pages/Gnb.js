@@ -14,8 +14,8 @@ export default function Gnb() {
         </div>
         <div className="bg-white/90 p-4 rounded-md grid place-content-center">
             <h1 className="font-bold">Contact</h1>
-            <p>Arun Prakash</p>
-            <p className="text-blue-600 underline hover:cursor-pointer">9487965300</p>
+            <p>Sujeeth</p>
+            <p className="text-blue-600 underline hover:cursor-pointer">7904838475</p>
         </div>
     </div>
 </div>

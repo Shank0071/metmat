@@ -28,8 +28,8 @@ export default function Flashit() {
         </div>
         <div className="bg-white/90 p-4 rounded-md grid place-content-center">
             <h1 className="font-bold">Contact</h1>
-            <p>Arun Prakash</p>
-            <p className="text-blue-600 underline hover:cursor-pointer">9487965300</p>
+            <p>Kavin</p>
+            <p className="text-blue-600 underline hover:cursor-pointer">8870984287</p>
         </div>
     </div>
 </div>

@@ -22,6 +22,9 @@ export default function Home() {
           This function will be conducted on 6th April 2023.</p>
         <p>On this wonderful occasion we are happy to invite students from various colleges to witness their own skills.
         </p>
+        <p className="text-yellow-300 font-bold">Registration Fees: Rs. 350</p>
+        <p className="text-yellow-300 font-bold">For Queries Contact: 8344765804 (Selvakumar)</p>
+
         <Link className="mx-auto" to="https://forms.gle/hCuMGKZDXzs19aSt8">
         <button className="bg-slate-300 text-black rounded-md p-2 px-4 w-fit hover:scale-110 hover:font-bold">Register Now!</button>
         </Link>

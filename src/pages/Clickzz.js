@@ -19,8 +19,9 @@ export default function Clickzz() {
           </div>
           <div className="bg-white/90 p-4 rounded-md grid place-content-center">
               <h1 className="font-bold">Contact</h1>
-              <p>Arun Prakash</p>
-              <p className="text-blue-600 underline hover:cursor-pointer">9487965300</p>
+              <p>Shankar</p>
+              <p className="text-blue-600 underline hover:cursor-pointer">9865673166</p>
+              <p className="text-blue-600 underline hover:cursor-pointer">9489742299</p>
           </div>
       </div>
   </div>
