@@ -23,7 +23,17 @@ export default function Home() {
         <p>On this wonderful occasion we are happy to invite students from various colleges to witness their own skills.
         </p>
         <p className="text-yellow-300 font-bold">Registration Fees: Rs. 350</p>
+        <p className="text-yellow-600 font-bold">Gpay Number: 9791893462 (Vairavel)</p>
         <p className="text-yellow-300 font-bold">For Queries Contact: 8344765804 (Selvakumar)</p>
+
+        <div className="max-w-2xl text-center my-6 mx-auto bg-black/40 p-4 rounded-md">
+        <h1>SPECIAL LECTURE ON</h1>
+        <h1 className="font-bold text-yellow-300">TQM AND STANDARDS</h1>
+        <h1>BY</h1>
+        <h1 className="font-bold text-yellow-300">DR. V. S. SARAVANAN</h1>
+        <h1>VICE PRESIDENT</h1>
+        <h1>M/S INDOSHELL CAST [P] LTD, COIMBATORE.</h1>
+      </div>
 
         <Link className="mx-auto" to="https://forms.gle/hCuMGKZDXzs19aSt8">
         <button className="bg-slate-300 text-black rounded-md p-2 px-4 w-fit hover:scale-110 hover:font-bold">Register Now!</button>
@@ -31,15 +41,7 @@ export default function Home() {
         <h1 className="text-center font-bold text-yellow-300">April 6, 2023</h1>
       </div>
 
-      <div className="max-w-2xl text-center mx-auto bg-black/40 p-4 rounded-md">
-        <h1>SPECIAL LECTURE ON</h1>
-        <h1 className="font-bold text-yellow-300">TQM AND STANDARDS</h1>
-        <h1>BY</h1>
-        <h1 className="font-bold text-yellow-300">DR. V. S. SARAVANAN</h1>
-        <h1>VICE PRESIDENT</h1>
-        <h1>M/S INDOSHELL CAST [P] LTD, COIMBATORE.</h1>
-        
-      </div>
+
       
      
     </div>
