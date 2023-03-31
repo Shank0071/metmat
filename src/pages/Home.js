@@ -10,7 +10,7 @@ export default function Home() {
         
         <h1 className="text-yellow-300 font-bold text-3xl">Metmat 23.0</h1>
       </div>
-      <div className="max-w-2xl mx-auto flex flex-col gap-4">
+      <div className="max-w-2xl mx-auto flex flex-col gap-4 mb-10">
         <p>
           <span className="text-yellow-300 font-bold">METMAT 23.0</span> a national level technical symposium conducted by the department of <span className="text-yellow-300 font-bold">Metallurgical Engineering,
           Government College of Engineering, Salem.</span></p>
@@ -28,7 +28,16 @@ export default function Home() {
         <Link className="mx-auto" to="https://forms.gle/hCuMGKZDXzs19aSt8">
         <button className="bg-slate-300 text-black rounded-md p-2 px-4 w-fit hover:scale-110 hover:font-bold">Register Now!</button>
         </Link>
-          
+      </div>
+
+      <div className="max-w-2xl text-center mx-auto bg-black/40 p-4 rounded-md">
+        <h1>SPECIAL LECTURE ON</h1>
+        <h1 className="font-bold text-yellow-300">TQM AND STANDARDS</h1>
+        <h1>BY</h1>
+        <h1 className="font-bold text-yellow-300">DR. V. S. SARAVANAN</h1>
+        <h1>VICE PRESIDENT</h1>
+        <h1>M/S INDOSHELL CAST [P] LTD, COIMBATORE.</h1>
+        
       </div>
       
      
