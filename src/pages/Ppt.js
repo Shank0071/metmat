@@ -9,7 +9,7 @@ export default function Ppt() {
             <h1 className="font-bold">Rules:</h1>
             <ul>
                 <li>1. Maximum number of participants in a Team is 3.</li>
-                <li>2. The topics that the papers can be chosen by your own. 
+                <li>2. Topics can be chosen on your own. 
                     It is advisable that the presentation focuses on one particular topic. 
                     Report should be well comprehended, albeit advanced which could appeal to an undergraduate. 
                     Kindly contact the coordinator for any clarifications.</li>

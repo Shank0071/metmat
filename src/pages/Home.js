@@ -19,7 +19,7 @@ export default function Home() {
         <p>METMAT 23.0 will be a great platform to explore our knowledge in the field of Metallurgy and gain oceans of wisdom. 
           It has both technical and non-technical events as a complete package.</p>
         <p>The METMAT 23.0 serves as a steel bridge for every metallurgist to mould ourself to become a sound casting. 
-          This function will be conducted on 6th April 2023.</p>
+          This function will be conducted on <span className="font-bold text-yellow-300">6th April 2023.</span></p>
         <p>On this wonderful occasion we are happy to invite students from various colleges to witness their own skills.
         </p>
         <p className="text-yellow-300 font-bold">Registration Fees: Rs. 350</p>
@@ -28,6 +28,7 @@ export default function Home() {
         <Link className="mx-auto" to="https://forms.gle/hCuMGKZDXzs19aSt8">
         <button className="bg-slate-300 text-black rounded-md p-2 px-4 w-fit hover:scale-110 hover:font-bold">Register Now!</button>
         </Link>
+        <h1 className="text-center font-bold text-yellow-300">April 6, 2023</h1>
       </div>
 
       <div className="max-w-2xl text-center mx-auto bg-black/40 p-4 rounded-md">
