@@ -51,7 +51,7 @@ export default function Events() {
         to="/events/flashit"
         className="bg-white/90 p-4 rounded-md hover:scale-110"
       >
-        <h1 className="font-bold hover:text-blue-600 text-center">Flash it</h1>
+        <h1 className="font-bold hover:text-blue-600 text-center">Spark your Brain</h1>
       </Link>
     </div>
   );

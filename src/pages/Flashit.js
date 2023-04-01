@@ -2,7 +2,7 @@
 export default function Flashit() {
   return (
     <div className="max-w-5xl mx-auto mt-10 p-4">
-    <h1 className="text-yellow-300 font-bold text-2xl text-center mb-5">Flash It (Non-Technical)</h1>
+    <h1 className="text-yellow-300 font-bold text-2xl text-center mb-5">Spark your Brain (Non-Technical)</h1>
     <div className="flex flex-col md:flex-row gap-4 justify-center">
         <div className="bg-white/90 p-4 rounded-md">
             <h1 className="font-bold">Rules:</h1>
