@@ -25,6 +25,7 @@ export default function Home() {
         <p className="text-yellow-300 font-bold">Registration Fees: Rs. 350</p>
         <p className="text-yellow-600 font-bold">Gpay Number: 9791893462 (Vairavel)</p>
         <p className="text-yellow-300 font-bold">For Queries Contact: 8344765804 (Selvakumar)</p>
+        <p className="text-yellow-300 font-bold">Email: <span className="text-blue-500 underline hover:cursor-pointer">metmat2k23@gmail.com</span></p>
 
         <div className="max-w-2xl text-center my-6 mx-auto bg-black/40 p-4 rounded-md">
         <h1>SPECIAL LECTURE ON</h1>
